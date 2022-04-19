@@ -1,0 +1,1 @@
+Repositorio com o intuito de ir seguindo enquanto leio/estudo o livro "Estruturas de dados e algoritmos com JavaScript" da Loiane Groner.
